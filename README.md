@@ -1,0 +1,3 @@
+EEDotNetCore
+EEDotNetCore.ConsoleApp
+EEDotNetCore.RestApi
